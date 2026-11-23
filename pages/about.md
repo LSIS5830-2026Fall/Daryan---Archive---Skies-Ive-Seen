@@ -14,14 +14,15 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The Sky Photo Collection brings together eight original photographs I took on my iPhone. I chose the sky as the subject because it’s something I see every day, yet it can look different from one moment to the next. Viewed together, the photographs invite you to slow down and notice how light, color, and cloud patterns shape each scene.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+## How the Photos Are Described
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Each photograph has a unique identifier and a title. I used the information saved with the original iPhone photos to record when and where they were taken, when those details were available. The descriptions give viewers more context about what appears in each photograph, and subject terms connect photos that share features or themes. I also included brief visual descriptions that focus on details such as the shape of the clouds or the color of the sky.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+## Rights and Reuse
+
+All eight photographs were taken by Daryan Lassiter, who retains the copyright. If you’d like to reproduce or republish a photograph, please contact Daryan Lassiter to request permission.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
